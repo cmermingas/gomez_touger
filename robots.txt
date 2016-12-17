@@ -1,0 +1,19 @@
+# Prevent Indexing of the following directories and pages by any web spiders
+User-agent: *
+# Global Rules - START
+Disallow: /content
+Disallow: /data
+Disallow: /modules
+Disallow: /Disclaimer.shtml
+Disallow: /E-mail.shtml
+Disallow: /Error.shtml 
+Disallow: /Error-Espanol.shtml
+Disallow: /Gracias.shtml 
+Disallow: /Thank-You.shtml 
+Disallow: /mt-bin/
+# Global Rules - END
+
+#Site Specific Rules - START
+http://www.gotofloridalaw.com/geositemap.xml
+Sitemap: http://index.findlaw.com/www.gotofloridalaw.com/sitemap.xml.gz
+#Site Specific Rules - END
