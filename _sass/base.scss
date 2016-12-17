@@ -1,0 +1,14 @@
+@import "variables";
+@import "bootstrap";
+
+/*
+Instead of @import "bootstrap", look into only importing what's used. Eg:
+
+@import "bootstrap/mixins";
+@import "bootstrap/normalize";
+@import "bootstrap/print";
+@import "bootstrap/scaffolding";
+@import "bootstrap/type";
+@import "bootstrap/grid";
+@import "bootstrap/responsive-utilities";
+ */

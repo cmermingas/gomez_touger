@@ -1,0 +1,12 @@
+// Bootstrap variables
+$font-family-sans-serif:  Arial, Helvetica, sans-serif !default;
+$font-family-serif:       "Crimson Text", serif !default;
+$headings-font-family:    $font-family-serif !default;
+$headings-font-weight:    600 !default;
+
+// Non bootstrap variables
+$main-color: #002d62;
+$highlight-color: #c3ae76;
+
+@import "bootstrap/variables";
+

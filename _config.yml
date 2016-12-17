@@ -1,0 +1,39 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Tampa Criminal Defense Attorneys | Tampa Drug Crime Defense Lawyers | Lakeland Sex Crimes
+email: cmermingas@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Experienced criminal defense from DUI to white collar crime and murder.
+  Call Gomez & Touger in Tampa at 813-876-6622. Free consultation.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: na
+github_username:  na
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-multiple-languages-plugin
+include: ['_pages']
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - readme.md
+# i18n settings
+languages: ['en', 'es']
+exclude_from_localization: ['assets']

@@ -1,0 +1,17 @@
+name: 'Gomez & Touger, P.A.'
+
+locations:
+  bartow:
+    address_line_1: '1125 East Main Street'
+    city: 'Bartow'
+    state: 'FL'
+    zip: '33830'
+    phone: '863-533-9559'
+    fax: '813-876-4443'
+  tampa:
+    address_line_1: '2310 North Armenia Avenue'
+    city: 'Tampa'
+    state: 'FL'
+    zip: '33607'
+    phone: '813-876-6622'
+    fax: '813-876-4443'
