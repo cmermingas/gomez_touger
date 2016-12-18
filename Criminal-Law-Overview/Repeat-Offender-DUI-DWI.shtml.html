@@ -123,55 +123,6 @@
         <noscript id="containerContextual"><img id="contextual"
                                                 src="../design/images/xi-random1.jpg.pagespeed.ic.qp1ECdedWJ.jpg"
                                                 alt=""/></noscript>
-        <div id="containerSearchFormDesign">
-            <script type="text/javascript">//<![CDATA[
-            if (!$('script[src$="searchFormDesignCheck.js"]:first').attr('hasexecuted')) {
-                $().ready(function () {
-                    if (location.href.match(/previewsite.do\?pagename=/)) {
-                        $('#searchFormDesign,#searchForm').submit(function (e) {
-                            e.preventDefault();
-                            alert('Search does not function from Preview, please use your published Web site to search.');
-                        });
-                    }
-                });
-                $('script[src$="searchFormDesignCheck.js"]:first').attr('hasexecuted', true);
-            }
-            //]]></script>
-            <script type="text/javascript">//<![CDATA[
-            if (!$('script[src$="autofillFSP.js"]:first').attr('hasexecuted')) {
-                $(document).ready(function () {
-                    $('.formAutoFill').each(function () {
-                        $(this).find('input[type="text"],textarea').focus(function () {
-                            if ($(this).val() == $(this).attr('title')) {
-                                $(this).val('');
-                            }
-                            $(this).css({fontWeight: 'normal'});
-                        });
-                        $(this).find('input:text,textarea').blur(function () {
-                            if (!$(this).val()) $(this).val($(this).attr('title'));
-                            if ($(this).val() == $(this).attr('title')) {
-                                if ($(this).parent().parent().find('label[for="' + $(this).attr('id') + '"] strong').length) $(this).css({fontWeight: 'bold'});
-                            }
-                        });
-                        $(this).find('input[type="text"],textarea').each(function () {
-                            var myLabel = $(this).parent().parent().find('label[for="' + $(this).attr('id') + '"]:not(.formHide)');
-                            if (!myLabel.find('input[type="text"]').length) myLabel.addClass('formLabelHide');
-                            $(this).val($(this).attr('title'));
-                            if (myLabel.find('strong').length) $(this).css({fontWeight: 'bold'});
-                        });
-                    });
-                });
-                $('script[src$="autofillFSP.js"]:first').attr('hasexecuted', true);
-            }
-            //]]></script>
-            <form action="http://www.gotofloridalaw.com/Search-Results.shtml" method="get" class="formAutoFill"
-                  name="searchFormDesign" id="searchFormDesign">
-                <input name="stext" type="text" id="searchFormDesignSearchTerms" title="Search our site"/>
-                <input type="image" src="../design/images/xsearchFormDesignSubmit.gif.pagespeed.ic.k9IQKJsfR3.png"
-                       id="searchFormDesignSubmit" class="over" name="searchFormDesignSubmit" value="Search"
-                       alt="Search"/>
-            </form>
-        </div>
         <h4 id="tagline">Contact Us For A Free Consultation Today <br/>24 Hour Service <span>•</span> Los Abogados
             Hablan Español</h4>
     </div>
