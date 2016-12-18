@@ -112,19 +112,16 @@
 
 // CTA
 
-.cta-float {
-  float: left;
+.cta-container {
   position: relative;
   top: -40px;
-  margin: 0 20px -40px 0;
 }
 
 @media (max-width: $screen-xs-max) {
   .cta-float {
     position: static;
-    float: none;
     top: 0;
-    margin: 20px auto 0 auto;
+    margin-top: 20px;
   }
 }
 
