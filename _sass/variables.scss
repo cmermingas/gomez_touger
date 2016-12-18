@@ -4,9 +4,19 @@ $font-family-serif:       "Crimson Text", serif !default;
 $headings-font-family:    $font-family-serif !default;
 $headings-font-weight:    600 !default;
 
+$navbar-default-link-color:                #fff !default;
+$navbar-default-link-hover-color:          #000 !default;
+//$navbar-default-link-hover-bg:             transparent !default;
+$navbar-default-link-active-color:         #fff !default;
+$navbar-default-link-active-bg:            none !default;
+//$navbar-default-link-disabled-color:       #ccc !default;
+//$navbar-default-link-disabled-bg:          transparent !default;
+
 // Non bootstrap variables
 $main-color: #002d62;
 $highlight-color: #c3ae76;
+$navbar-font-family: "Average", serif;
+$navbar-highlight-color: #8c7434;
 
 @import "bootstrap/variables";
 

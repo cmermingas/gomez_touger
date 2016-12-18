@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tampa Criminal Defense Attorneys | Tampa Drug Crime Defense Lawyers | Lakeland Sex Crimes
+title: 'Tampa Criminal Defense Attorneys | Tampa Drug Crime Defense Lawyers | Lakeland Sex Crimes'
 email: cmermingas@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Experienced criminal defense from DUI to white collar crime and murder.
@@ -34,6 +34,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - readme.md
+  - _pages/template.md
 # i18n settings
 languages: ['en', 'es']
 exclude_from_localization: ['assets']

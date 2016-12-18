@@ -1,0 +1,24 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% if page.title %}{% t page.title %}{% else %}{{ site.title }}{% endif %}</title>
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl_root}}">
+
+    {% for lang in site.languages %}
+    <link rel="alternate" href="{% tl {{page.namespace}} {{lang}} %}" hreflang="{{lang}}">
+    {% endfor %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl_root }}">
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"
+            integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+            crossorigin="anonymous"></script>
+
+    <script src="{{ '/assets/js/bootstrap.min.js' | prepend: site.baseurl_root }}"></script>
+
+    <link href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600|Average" rel="stylesheet" type="text/css" />
+
+    <!--<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600' rel='stylesheet' type='text/css'>-->
+    <!--<link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>-->
+</head>

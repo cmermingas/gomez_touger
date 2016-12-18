@@ -1,0 +1,232 @@
+---
+---
+
+@import "base";
+
+// Banner
+
+.banner {
+  height: 356px;
+  background: black;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  img:first-of-type {
+    flex-shrink: 0;
+    padding: 0 10px;
+  }
+
+  img:last-of-type {
+    margin-left: 11px;
+    flex-shrink: 2;
+  }
+}
+
+@media (max-width: $screen-xs-max) {
+  .banner {
+    height: 160px;
+  }
+}
+
+// Navbar
+
+.navbar {
+  background: linear-gradient(0deg, #776126, #c0ab72);
+  border-radius: 0;
+  margin-bottom: 0;
+  border-width: 0;
+  border-top: 3px solid $navbar-highlight-color;
+  border-bottom: 3px solid $navbar-highlight-color;
+  font-family: $navbar-font-family !important;
+  font-size: 15px !important;
+
+  button.navbar-toggle {
+    color: white;
+    border-width: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-top-width: 4px;
+    border-top-style: solid;
+    border-top-color: transparent;
+    padding-top: 7px;
+    padding-bottom: 12px;
+  }
+
+  button.navbar-toggle:focus, button.navbar-toggle:hover {
+    border-top-color: #d7c79f;
+    background-color: transparent;
+  }
+
+  li {
+    a {
+      border-top-width: 4px;
+      border-top-style: solid;
+      border-top-color: transparent;
+      padding-top: 7px;
+      padding-bottom: 12px;
+    }
+
+    a:hover {
+      border-top-color: #d7c79f;
+    }
+  }
+}
+
+@media (max-width: $screen-sm-min - 1) {
+  .navbar li a:hover {
+    border-top-color: transparent;
+  }
+}
+
+// Message below the navbar
+
+.below-navbar {
+  display: flex;
+  align-items: center;
+  height: 76px;
+  background: linear-gradient(0deg, #002e62, #011226);
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.tagline {
+  margin-left: 50%;
+  font-family: $font-family-serif;
+  color: inherit;
+  font-style: italic;
+  font-size: inherit;
+  font-weight: normal;
+  font-size: 22px;
+}
+
+@media (max-width: $screen-xs-max) {
+  .tagline {
+    margin: auto;
+    font-size: 18px;
+  }
+}
+
+// CTA
+
+.cta-float {
+  float: left;
+  position: relative;
+  top: -40px;
+  margin: 0 20px -40px 0;
+}
+
+@media (max-width: $screen-xs-max) {
+  .cta-float {
+    position: static;
+    float: none;
+    top: 0;
+    margin: 20px auto 0 auto;
+  }
+}
+
+.cta {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  color: #fff;
+  text-align: center;
+  background: #000000;
+  border: 2px solid #c1ac76;
+  width: 332px;
+  padding: 13px 0 20px 0;
+
+  .cta-phone {
+    font-family: $font-family-serif;
+    font-size: 26px;
+    font-weight: 600;
+
+    span:first-of-type {
+      color: $highlight-color;
+    }
+
+    span:last-of-type {
+      color: white;
+    }
+  }
+}
+
+// Lawyer photo for home page only
+
+.lawyer-home {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 12px;
+  border: 2px solid #c1ac76;
+  width: 332px;
+}
+
+// Content
+
+h1, h2, h3, h4, h5, h6 {
+  color: $main-color;
+}
+
+// Footer
+
+footer {
+
+  .contact {
+    background: linear-gradient(0deg, #776126, #c0ab72);
+    border-radius: 0;
+    margin-bottom: 0;
+    border-width: 0;
+    border-top: 3px solid $navbar-highlight-color;
+    border-bottom: 3px solid $navbar-highlight-color;
+    padding: 22px 60px;
+
+    figure {
+      display: inline-block;
+
+      img {
+        box-shadow: -4px 4px 4px #655635;
+      }
+
+      figcaption {
+        margin-top: 10px;
+        font-family: $font-family-serif;
+        font-size: 15px;
+        font-style: italic;
+        text-align: center;
+        color: black;
+      }
+    }
+
+    h4 {
+      font-size: 30px;
+      color: #493910;
+    }
+
+    .vertical-spacer {
+      height: 20px;
+    }
+  }
+
+  .links {
+    padding: 26px 35px;
+    background-color: #282828;
+    color: #b3b2b2;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+  a:hover {
+    color: white;
+  }
+
+}
+
+

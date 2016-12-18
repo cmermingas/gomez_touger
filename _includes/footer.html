@@ -1,0 +1,54 @@
+<footer>
+    <!--
+    border: #735d23
+    shadow:
+    -->
+
+    <div class="row contact">
+        <div class="col-xs-12 col-md-6">
+            <figure>
+                <img class="img-responsive" src="/assets/images/attorney.gif">
+                <figcaption>*Not Pictured - Ana Benitez, Senior Case Manager</figcaption>
+            </figure>
+        </div>
+
+        <div class="col-xs-12 col-md-6">
+            <h4>Office Locations:</h4>
+            <div class="row">
+                <div class="col-xs-12 col-sm-6">
+                    <strong>{{site.data.business.name}}</strong><br>
+                    {% assign location = site.data.business.locations.tampa %}
+                    {{location.address_line_1}}<br>
+                    {{location.city}}, {{location.state}} {{location.zip}}<br>
+                    Tel: {{location.phone}}<br>
+                    Fax: {{location.fax}}<br>
+                    <a href="/Tampa-Criminal-Law-Office.shtml.html">Tampa Law Office Map</a>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="vertical-spacer visible-xs"></div>
+                    <strong>{{site.data.business.name}}</strong><br>
+                    {% assign location = site.data.business.locations.bartow %}
+                    {{location.address_line_1}}<br>
+                    {{location.city}}, {{location.state}} {{location.zip}}<br>
+                    Tel: {{location.phone}}<br>
+                    Fax: {{location.fax}}<br>
+                    <a href="/Bartow-Criminal-Law-Office.shtml.html">Bartow Law Office Map</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="links">
+        <p>
+            {{site.data.business.name}}, serves clients throughout the Central Florida area such as Tampa, Bartow,
+            Lakeland, Winter Haven, Brandon, Bradenton, Sarasota, Clearwater, St. Petersburg, Plant City, Hillsborough
+            County, Polk County, Pinellas County, Manatee County and Sarasota County.
+        </p>
+        <p>
+            &copy; {{site.time | date: '%Y'}}
+            by <a href="http://pview.findlaw.com/cmd/view?wld_id=3413463&pid=1">{{site.data.business.name}}</a>
+            All rights reserved.
+            <a href="/Privacy-Policy.shtml.html">Privacy Policy</a>
+        </p>
+    </div>
+</footer>
