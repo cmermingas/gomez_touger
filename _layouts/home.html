@@ -4,43 +4,36 @@
 
 <body>
 {% include header.html %}
+
 <div class="container">
     <div class="row">
         <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4">
             <div class="cta-container">
                 {% include cta.html %}
-                <img class="lawyer-home" src="/assets/images/attorney_home.jpg">
+                <img class="lawyer-home img-responsive" src="/assets/images/attorney_home.jpg">
             </div>
         </div>
 
         <div class="col-xs-12 col-sm-6 col-md-7 col-lg-8">
 
-            <h1>English</h1>
+            <h1 class="text-center">English</h1>
 
-            <button class="btn btn-default btn-lg btn-block">Criminal Law</button>
-            <button class="btn btn-default btn-lg btn-block">Personal Injury</button>
+            <div class="big-button-row">
+                <button class="btn btn-default big-button">Criminal Law</button>
+                <button class="btn btn-default big-button">Personal Injury</button>
+            </div>
 
-            <h1>Español</h1>
+            <h1 class="text-center">Español</h1>
 
-            <button class="btn btn-default btn-lg btn-block">Crímenes</button>
-            <button class="btn btn-default btn-lg btn-block">Accidentes Personales</button>
+            <div class="big-button-row">
+                <button class="btn btn-default big-button">Crímenes</button>
+                <button class="btn btn-default big-button">Accidentes Personales</button>
+            </div>
 
         </div>
     </div>
-
-    <br><br><br>
-    <p class="visible-xs">XS</p>
-    <p class="visible-sm">SM</p>
-    <p class="visible-md">MD</p>
-    <p class="visible-lg">LG</p>
-
-    <!--<h1>{% t layout_title %}</h1>-->
-    <!--<main>-->
-    <!--<article>-->
-    <!--{{ content }}-->
-    <!--</article>-->
-    <!--</main>-->
 </div>
 {% include footer.html %}
 </body>
+<script src="/assets/js/main.js"></script>
 </html>

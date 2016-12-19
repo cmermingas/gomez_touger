@@ -1,2 +1,26 @@
 # Spanish strings
 titles:
+  attorneys: 'Abogados | Gomez & Touger, P.A. | Tampa, Florida'
+
+navigation:
+  home: 'INICIO'
+  firm_overview: 'NUESTRA FIRMA'
+  attorneys: 'ABOGADOS'
+  contact_us: 'CONTÁCTENOS'
+
+tagline:
+  line_1: 'Contáctenos Hoy Para Recibir Su Consulta Gratis'
+  line_2: 'Servicio 24 Horas • Los Abogados Hablan Español'
+
+footer:
+  not_pictured_caption: '*No Aparece - Ana Benitez, Senior Case Manager'
+  office_locations: 'Oficinas'
+  tampa_office: 'Mapa de la Oficina de Tampa'
+  bartow_office: 'Mapa de la Oficina de Bartow'
+  info: >
+    Gomez & Touger, P.A. atiende clientes en toda el área de Florida Central incluyendo las ciudades Tampa, Bartow,
+    Lakeland, Winter Haven, Brandon, Bradenton, Sarasota, Clearwater, St. Petersburg, Plant City y los condados
+    Hillsborough, Polk, Pinellas, Manatee y Sarasota.
+  by: 'por'
+  all_rights_reserved: 'Todos los derechos reservados'
+  privacy_policy: 'Política de Privacidad'

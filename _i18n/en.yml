@@ -1,2 +1,26 @@
 # English strings (DEFAULT)
 titles:
+  attorneys: 'Attorneys | Gomez & Touger, P.A. | Tampa, Florida'
+
+navigation:
+  home: 'HOME'
+  firm_overview: 'FIRM OVERVIEW'
+  attorneys: 'ATTORNEYS'
+  contact_us: 'CONTACT US'
+
+tagline:
+  line_1: 'Contact Us For A Free Consultation Today'
+  line_2: '24 Hour Service • Los Abogados Hablan Español'
+
+footer:
+  not_pictured_caption: '*Not Pictured - Ana Benitez, Senior Case Manager'
+  office_locations: 'Office Locations'
+  tampa_office: 'Tampa Law Office Map'
+  bartow_office: 'Bartow Law Office Map'
+  info: >
+    Gomez & Touger, P.A. serves clients throughout the Central Florida area such as Tampa, Bartow, Lakeland,
+    Winter Haven, Brandon, Bradenton, Sarasota, Clearwater, St. Petersburg, Plant City, Hillsborough County,
+    Polk County, Pinellas County, Manatee County and Sarasota County.
+  by: 'by'
+  all_rights_reserved: 'All rights reserved'
+  privacy_policy: 'Privacy Policy'

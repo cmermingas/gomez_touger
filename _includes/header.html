@@ -13,18 +13,22 @@
 
         <div class="collapse navbar-collapse" id="main-navbar">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="#">HOME</a></li>
-                <li><a href="#">FIRM OVERVIEW</a></li>
-                <li><a href="#">ATTORNEYS</a></li>
-                <li><a href="#">CONTACT US</a></li>
+                <li class="active"><a href="#">{% t navigation.home %}</a></li>
+                <li><a href="#">{% t navigation.firm_overview %}</a></li>
+                <li><a href="#">{% t navigation.attorneys %}</a></li>
+                <li><a href="#">{% t navigation.contact_us %}</a></li>
             </ul>
         </div>
     </div>
 </nav>
 
-<div class="below-navbar">
-    <h4 class="tagline">
-        Contact Us For A Free Consultation Today<br>
-        24 Hour Service • Los Abogados Hablan Español
-    </h4>
+<div class="container-fluid below-navbar">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-6 col-md-7 col-md-offset-5 col-lg-8 col-lg-offset-4">
+            <h4 class="tagline text-center">
+                {% t tagline.line_1 %}<br>
+                {% t tagline.line_2 %}
+            </h4>
+        </div>
+    </div>
 </div>

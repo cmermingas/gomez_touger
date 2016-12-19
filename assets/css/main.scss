@@ -25,7 +25,7 @@
   }
 }
 
-@media (max-width: $screen-xs-max) {
+@media (max-width: $screen-sm-max) {
   .banner {
     height: 160px;
   }
@@ -84,29 +84,27 @@
 // Message below the navbar
 
 .below-navbar {
-  display: flex;
-  align-items: center;
-  height: 76px;
   background: linear-gradient(0deg, #002e62, #011226);
   color: white;
-  text-align: center;
-  vertical-align: middle;
 }
 
 .tagline {
-  margin-left: 50%;
   font-family: $font-family-serif;
   color: inherit;
   font-style: italic;
-  font-size: inherit;
+  font-size: 16px;
   font-weight: normal;
-  font-size: 22px;
 }
 
-@media (max-width: $screen-xs-max) {
+@media (min-width: $screen-sm-min) {
   .tagline {
-    margin: auto;
     font-size: 18px;
+  }
+}
+
+@media (min-width: $screen-md-min) {
+  .tagline {
+    font-size: 22px;
   }
 }
 
@@ -115,14 +113,6 @@
 .cta-container {
   position: relative;
   top: -40px;
-}
-
-@media (max-width: $screen-xs-max) {
-  .cta-float {
-    position: static;
-    top: 0;
-    margin-top: 20px;
-  }
 }
 
 .cta {
@@ -152,6 +142,20 @@
   }
 }
 
+
+@media (max-width: $screen-xs-max) {
+  .cta-container {
+    position: static;
+    top: 0;
+    margin-top: 20px;
+  }
+
+  .cta {
+    width: 100%;
+    max-width: 332px;
+  }
+}
+
 // Lawyer photo for home page only
 
 .lawyer-home {
@@ -160,7 +164,7 @@
   margin-right: auto;
   margin-top: 12px;
   border: 2px solid #c1ac76;
-  width: 332px;
+  //width: 332px;
 }
 
 // Content
@@ -173,10 +177,10 @@ h1, h2, h3, h4, h5, h6 {
 
 footer {
 
+  margin-top: 30px;
+
   .contact {
     background: linear-gradient(0deg, #776126, #c0ab72);
-    border-radius: 0;
-    margin-bottom: 0;
     border-width: 0;
     border-top: 3px solid $navbar-highlight-color;
     border-bottom: 3px solid $navbar-highlight-color;
@@ -226,4 +230,35 @@ footer {
 
 }
 
+// Main page
 
+.debug {
+  div, h1, h2 {
+    border: blue solid 2px;
+  }
+}
+
+.big-button-row {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+
+  .big-button:last-of-type {
+    margin-right: 0;
+  }
+
+  .big-button {
+    //width: 30%;
+    flex-basis: 0;
+    flex-grow: 1;
+    margin-right: 10px;
+    min-height: 80px;
+    font-size: x-large;
+    white-space: normal;
+    background: linear-gradient(0deg, #776126, #c0ab72);
+    color: white;
+    font-family: $font-family-serif;
+  }
+}
