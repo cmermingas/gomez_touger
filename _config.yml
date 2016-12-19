@@ -19,6 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Experienced criminal defense from DUI to white collar crime and murder.
   Call Gomez & Touger in Tampa at 813-876-6622. Free consultation.
 baseurl: "" # the subpath of your site, e.g. /blog
+prod_host: "http://www.gotofloridalaw.com"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: na
 github_username:  na
