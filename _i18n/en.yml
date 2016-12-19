@@ -1,6 +1,8 @@
 # English strings (DEFAULT)
 titles:
   attorneys: 'Attorneys | Gomez & Touger, P.A. | Tampa, Florida'
+  privacy_policy: 'Privacy Policy | Gomez & Touger, P.A.'
+
   personal_injury:
     home: 'PERSONAL INJURY TITLE IN ENGLISH'
 

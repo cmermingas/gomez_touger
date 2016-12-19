@@ -250,15 +250,14 @@ footer {
   }
 
   .big-button {
-    //width: 30%;
     flex-basis: 0;
     flex-grow: 1;
     margin-right: 10px;
-    min-height: 80px;
+    //height: 80px;
+    font-family: $font-family-serif;
     font-size: x-large;
     white-space: normal;
     background: linear-gradient(0deg, #776126, #c0ab72);
     color: white;
-    font-family: $font-family-serif;
   }
 }
