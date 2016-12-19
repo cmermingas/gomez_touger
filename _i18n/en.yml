@@ -2,7 +2,9 @@
 titles:
   attorneys: 'Attorneys | Gomez & Touger, P.A. | Tampa, Florida'
   privacy_policy: 'Privacy Policy | Gomez & Touger, P.A.'
-
+  office_map:
+    tampa: 'Tampa Law Office | Gomez & Touger, P.A. | Tampa, Florida'
+    bartow: 'Bartow Law Office | Gomez & Touger, P.A. | Bartow, Florida'
   personal_injury:
     home: 'PERSONAL INJURY TITLE IN ENGLISH'
 
