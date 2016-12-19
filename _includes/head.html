@@ -4,10 +4,10 @@
 
     <title>{% if page.title %}{% t page.title %}{% else %}{{ site.title }}{% endif %}</title>
 
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl_root}}">
+    <link rel="canonical" href="{{site.prod_host}}{% tl {{ page.namespace }} %}">
 
     {% for lang in site.languages %}
-    <link rel="alternate" href="{% tl {{page.namespace}} {{lang}} %}" hreflang="{{lang}}">
+    <link rel="alternate" href="{{site.prod_host}}{% tl {{ page.namespace }} {{ lang }} %}" hreflang="{{lang}}">
     {% endfor %}
 
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl_root }}">

@@ -1,6 +1,8 @@
 # Spanish strings
 titles:
   attorneys: 'Abogados | Gomez & Touger, P.A. | Tampa, Florida'
+  personal_injury:
+    home: 'PERSONAL INJURY TITLE IN SPANISH'
 
 navigation:
   home: 'INICIO'
