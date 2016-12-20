@@ -4,6 +4,14 @@
 
 <body>
 {% include header.html %}
+
+<script>
+    // Randomize banner image for non home page
+    var banner_images = new Array("i-random1.jpg", "i-random2.jpg", "i-random3.jpg");
+    var randomIndex = Math.floor(Math.random() * banner_images.length);
+    document.getElementById("banner-image").src="/assets/images/" + banner_images[randomIndex];
+</script>
+
 <div class="container">
     <div class="row">
         <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4">
