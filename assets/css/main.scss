@@ -261,3 +261,28 @@ footer {
     color: white;
   }
 }
+
+.main-content {
+  img {
+    margin: 10px;
+    height: auto;
+    border: gray solid 1px;
+  }
+
+  img:nth-of-type(2n + 1) {
+    float: right;
+  }
+
+  img:nth-of-type(2n) {
+    float: left;
+  }
+}
+
+@media (max-width: $screen-xs-max) {
+  .main-content {
+    img {
+      float: none !important;
+      max-width: 100%;
+    }
+  }
+}

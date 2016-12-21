@@ -1,6 +1,8 @@
 # Spanish strings
 titles:
   attorneys: 'Abogados | Gomez & Touger, P.A. | Tampa, Florida'
+  attorney_guillermo_gomez: 'Guillermo E. Gomez Jr. | Gomez & Touger P.A. | Tampa, Florida'
+  attorney_joseph_touger: 'Joseph M. Touger | Gomez & Touger P.A. | Tampa, Florida'
   privacy_policy: 'Política de Privacidad | Gomez & Touger, P.A.'
   office_map:
     tampa: 'Oficina de Abogados en Tampa | Gomez & Touger, P.A. | Tampa, Florida'
