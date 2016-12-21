@@ -6,7 +6,7 @@
 // Banner
 
 .banner {
-  height: 356px;
+  height: 160px;
   background: black;
   display: flex;
   flex-direction: row;
@@ -14,20 +14,29 @@
   justify-content: center;
   align-items: center;
 
-  img:first-of-type {
-    flex-shrink: 0;
-    padding: 0 10px;
-  }
-
-  img:last-of-type {
-    margin-left: 11px;
-    flex-shrink: 2;
+  img {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
-@media (max-width: $screen-sm-max) {
+@media (min-width: $screen-md-min) {
   .banner {
-    height: 160px;
+    height: 356px;
+
+    img:first-of-type {
+      max-width: none;
+      margin-left: inherit;
+      margin-right: inherit;
+      flex-shrink: 0;
+      padding: 0 10px;
+    }
+
+    img:last-of-type {
+      margin-left: 11px;
+      flex-shrink: 2;
+    }
   }
 }
 
