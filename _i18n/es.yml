@@ -34,3 +34,8 @@ footer:
   by: 'por'
   all_rights_reserved: 'Todos los derechos reservados'
   privacy_policy: 'Política de Privacidad'
+
+
+home:
+  criminal_law: 'Crímenes'
+  personal_injury: 'Lesiones'
