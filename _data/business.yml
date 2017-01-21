@@ -15,3 +15,9 @@ locations:
     zip: '33607'
     phone: '813-876-6622'
     fax: '813-876-4443'
+
+people:
+  guillermo:
+    email: ggomez@gotofloridalaw.com
+  joseph:
+    email: jtouger@gotofloridalaw.com

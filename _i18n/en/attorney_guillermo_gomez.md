@@ -1,9 +1,9 @@
 # Guillermo E. Gomez Jr.
 
 * Location: Tampa, Florida
-* Phone: 813-876-6622
-* Fax: 813-876-4443
-* Email: E-mail Me ***<-- NEED TO FIX THIS***
+* Phone: {{ site.data.business.locations.tampa.phone }}
+* Fax: {{ site.data.business.locations.tampa.fax }}
+* Email: <{{ site.data.business.people.guillermo.email }}>
 
 ![Attorney photo](/assets/images/attorney_guillermo_gomez.jpg)
 
