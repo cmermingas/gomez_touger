@@ -1,11 +1,11 @@
 # Guillermo E. Gomez Jr.
 
-![Attorney photo](/assets/images/attorney_guillermo_gomez.jpg)
-
 * Location: Tampa, Florida
 * Phone: 813-876-6622
 * Fax: 813-876-4443
 * Email: E-mail Me ***<-- NEED TO FIX THIS***
+
+![Attorney photo](/assets/images/attorney_guillermo_gomez.jpg)
 
 When you are arrested or charged with a crime, it is both upsetting and frightening.  You may feel that the situation is hopeless or how could the police make such a grievous mistake. Regardless of your problem, my job is to fix it.  I don’t just identify what is wrong in your case, I provide you with a course of action of how to combat your criminal matter.
 

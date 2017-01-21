@@ -1,11 +1,11 @@
 # Joseph M Touger
 
-![Attorney photo](/assets/images/attorney_joseph_touger.jpg)
-
 * Location: Tampa, Florida
 * Phone: 813-876-6622
 * Fax: 813-876-4443
 * Email: E-mail Me ***<-- NEED TO FIX THIS***
+
+![Attorney photo](/assets/images/attorney_joseph_touger.jpg)
 
 When you are accused of a crime, you will be up against a team of prosecutors who will use the latest in investigative technology, as well as a justice system stacked against you, to accomplish its goal of turning you into a convicted criminal- regardless of innocence or guilt.
 

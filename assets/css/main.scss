@@ -273,7 +273,7 @@ footer {
 
 .main-content {
   img {
-    margin: 10px;
+    margin-left: 10px;
     height: auto;
     border: gray solid 1px;
   }
@@ -287,11 +287,11 @@ footer {
   }
 }
 
-@media (max-width: $screen-xs-max) {
-  .main-content {
-    img {
-      float: none !important;
-      max-width: 100%;
-    }
-  }
-}
+//@media (max-width: $screen-xs-max) {
+//  .main-content {
+//    img {
+//      float: none !important;
+//      max-width: 100%;
+//    }
+//  }
+//}
