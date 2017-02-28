@@ -10,7 +10,9 @@ titles:
     tampa: 'Oficina de Abogados en Tampa | Gomez & Touger, P.A. | Tampa, Florida'
     bartow: 'Oficina de Abogados en Bartow | Gomez & Touger, P.A. | Bartow, Florida'
   personal_injury:
-    home: 'Lesiones'
+    home: 'Casos de Lesion'
+  criminal:
+    home: 'Casos Penales'
 
 navigation:
   home: 'INICIO'
@@ -23,7 +25,6 @@ tagline:
   line_2: 'Servicio 24 Horas • Los Abogados Hablan Español'
 
 footer:
-  not_pictured_caption: '*No Aparece - Ana Benitez, Senior Case Manager'
   office_locations: 'Oficinas'
   tampa_office: 'Mapa de la Oficina de Tampa'
   bartow_office: 'Mapa de la Oficina de Bartow'
@@ -37,5 +38,5 @@ footer:
 
 
 home:
-  criminal_law: 'Crímenes - En Inglés'
-  personal_injury: 'Lesiones - En Inglés'
+  criminal_law: 'Casos Penales<br>(En Renovación)'
+  personal_injury: 'Casos de Lesión<br>(En Renovación)'

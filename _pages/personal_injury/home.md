@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: personal_injury
 title: titles.personal_injury.home
 
 namespace: personal_injury.home
-permalink: /personal_injury/
-permalink_en: /personal_injury/
-permalink_es: /accidentes/
+permalink: /personal-injury/
+permalink_en: /personal-injury/
+permalink_es: /casos-de-lesion/
 ---
 
 # Personal Injury

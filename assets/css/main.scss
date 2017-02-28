@@ -82,6 +82,21 @@
       border-top-color: #d7c79f;
     }
   }
+
+  ul.dropdown-menu {
+    background: linear-gradient(0deg, #131e42, #21439e, #131e42);
+
+    li a, li a:hover, li a:visited, li a:active {
+      color: white;
+      border-width: 0;
+      padding-top: 2px;
+      padding-bottom: 2px;
+    }
+
+    li a:hover {
+      background-color: black;
+    }
+  }
 }
 
 @media (max-width: $screen-sm-min - 1) {
@@ -150,7 +165,6 @@
     }
   }
 }
-
 
 @media (max-width: $screen-xs-max) {
   .cta-container {

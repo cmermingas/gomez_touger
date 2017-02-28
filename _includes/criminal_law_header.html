@@ -1,0 +1,57 @@
+<div class="banner">
+    <a href="{% tl home %}"><img class="img-responsive" src="/assets/images/logo.gif"></a>
+    <img id="banner-image" class="img-responsive hidden-xs hidden-sm" src="/assets/images/bg_banner_home.jpg">
+</div>
+
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navbar">
+                MENU
+            </button>
+        </div>
+
+        <div class="collapse navbar-collapse" id="main-navbar">
+            <ul class="nav navbar-nav">
+                <li><a href="{% tl home %}">{% t navigation.home %}</a></li>
+                <li><a href="{% tl criminal.firm_overview %}">{% t navigation.firm_overview %}</a></li>
+                <li><a href="{% tl criminal.attorneys %}">{% t navigation.attorneys %}</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        {% t navigation.criminal.overview %}  <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="{% tl criminal.overview %}">{% t navigation.criminal.overview %}</a></li>
+                        <li><a href="{% tl criminal.identity_theft %}">{% t navigation.criminal.identity_theft %}</a></li>
+                        <li><a href="{% tl criminal.embezzlement %}">{% t navigation.criminal.embezzlement %}</a></li>
+                        <li><a href="{% tl criminal.insurance_fraud %}">{% t navigation.criminal.insurance_fraud %}</a></li>
+                        <li><a href="{% tl criminal.rico %}">{% t navigation.criminal.rico %}</a></li>
+                        <li><a href="{% tl criminal.drug_possession %}">{% t navigation.criminal.drug_possession %}</a></li>
+                        <li><a href="{% tl criminal.drug_trafficking %}">{% t navigation.criminal.drug_trafficking %}</a></li>
+                        <li><a href="{% tl criminal.homicide_manslaughter %}">{% t navigation.criminal.homicide_manslaughter %}</a></li>
+                        <li><a href="{% tl criminal.domestic_violence %}">{% t navigation.criminal.domestic_violence %}</a></li>
+                        <li><a href="{% tl criminal.sexual_battery %}">{% t navigation.criminal.sexual_battery %}</a></li>
+                        <li><a href="{% tl criminal.internet_sex_crimes %}">{% t navigation.criminal.internet_sex_crimes %}</a></li>
+                        <li><a href="{% tl criminal.dui_dwi %}">{% t navigation.criminal.dui_dwi %}</a></li>
+                        <li><a href="{% tl criminal.license_suspension %}">{% t navigation.criminal.license_suspension %}</a></li>
+                        <li><a href="{% tl criminal.probation_violation %}">{% t navigation.criminal.probation_violation %}</a></li>
+                        <li><a href="{% tl criminal.expungements %}">{% t navigation.criminal.expungement %}</a></li>
+                        <li><a href="{% tl criminal.bond_hearings %}">{% t navigation.criminal.bond_hearings %}</a></li>
+                    </ul>
+                </li>
+                <li><a href="{% tl criminal.contact_us %}">{% t navigation.contact_us %}</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container-fluid below-navbar">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6 col-sm-offset-6 col-md-7 col-md-offset-5 col-lg-8 col-lg-offset-4">
+            <h4 class="tagline text-center">
+                {% t tagline.line_1 %}<br>
+                {% t tagline.line_2 %}
+            </h4>
+        </div>
+    </div>
+</div>
