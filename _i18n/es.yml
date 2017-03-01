@@ -38,5 +38,5 @@ footer:
 
 
 home:
-  criminal_law: 'Casos Penales<br>(En Renovación)'
-  personal_injury: 'Casos de Lesión<br>(En Renovación)'
+  criminal_law: 'Casos Penales<br><small><em>En Renovación</em></small>'
+  personal_injury: 'Casos de Lesión<br><small><em>En Renovación</em></small>'
