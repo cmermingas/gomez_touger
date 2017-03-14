@@ -36,6 +36,9 @@ exclude:
   - Gemfile.lock
   - readme.md
   - _pages/template.md
+  - .firebaserc
+  - database.rules.json
+  - firebase.json
 # i18n settings
 languages: ['en', 'es']
 exclude_from_localization: ['assets']
