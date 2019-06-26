@@ -8,7 +8,7 @@ titles:
   privacy_policy: 'Política de Privacidad | Gomez & Touger, P.A.'
   office_map:
     tampa: 'Oficina de Abogados en Tampa | Gomez & Touger, P.A. | Tampa, Florida'
-    bartow: 'Oficina de Abogados en Bartow | Gomez & Touger, P.A. | Bartow, Florida'
+    lakeland: 'Oficina de Abogados en Lakeland | Gomez & Touger, P.A. | Lakeland, Florida'
   personal_injury:
     home: 'Casos de Lesion'
   criminal:
@@ -25,9 +25,9 @@ tagline:
   line_2: 'Servicio 24 Horas • Los Abogados Hablan Español'
 
 footer:
-  office_locations: 'Oficinas'
-  tampa_office: 'Mapa de la Oficina de Tampa'
-  bartow_office: 'Mapa de la Oficina de Bartow'
+  office_locations: 'Direcciones de Oficinas'
+  tampa_office: 'Mapa de la Oficina Legal Tampa'
+  lakeland_office: 'Mapa de la Oficina Legal Lakeland'
   info: >
     Gomez & Touger, P.A. atiende clientes en toda el área de Florida Central incluyendo las ciudades Tampa, Lakeland,
     Winter Haven, Haines City, Bartow, Brandon, Bradenton, Sarasota, Clearwater, St. Petersburg, Plant City y los

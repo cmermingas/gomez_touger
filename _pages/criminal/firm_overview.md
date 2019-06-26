@@ -24,7 +24,7 @@ However, our Tampa criminal law [attorneys]({% tl criminal.attorneys %}) are alw
 
 ## Contact Our Tampa Sex Crimes Attorneys
 
-We have two offices conveniently located in Tampa and Bartow.
+We have two offices conveniently located in Tampa and Lakeland.
 To schedule a free consultation, please call {{ site.data.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
 Phones are answered 24 hours a day.
 

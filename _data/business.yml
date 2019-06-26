@@ -1,13 +1,13 @@
 name: 'Gomez & Touger, P.A.'
 
 locations:
-  bartow:
-    address_line_1: '1125 East Main Street'
-    city: 'Bartow'
+  lakeland:
+    address_line_1: '5705 US Hwy 98 South'
+    city: 'Lakeland'
     state: 'FL'
-    zip: '33830'
+    zip: '33846'
     phone: '863-533-9559'
-    fax: '813-876-4443'
+    fax: '863-800-3373'
   tampa:
     address_line_1: '2310 North Armenia Avenue'
     city: 'Tampa'

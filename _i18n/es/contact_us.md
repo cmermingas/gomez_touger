@@ -13,12 +13,12 @@ Nuestros teléfonos se atienden las 24 horas del día.
 {{location.city}}, {{location.state}} {{location.zip}}  
 Tel: {{location.phone}}  
 Fax: {{location.fax}}  
-[Map and Directions]({% tl office_tampa %})
+[Mapa y Direcciones]({% tl office_tampa %})
 
-{% assign location = site.data.business.locations.bartow %}
+{% assign location = site.data.business.locations.lakeland %}
 ***{{site.data.business.name}}***  
 {{location.address_line_1}}  
 {{location.city}}, {{location.state}} {{location.zip}}  
 Tel: {{location.phone}}  
 Fax: {{location.fax}}  
-[Map and Directions]({% tl office_bartow %})
+[Mapa y Direcciones]({% tl office_lakeland %})

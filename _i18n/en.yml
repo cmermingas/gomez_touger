@@ -8,7 +8,7 @@ titles:
   privacy_policy: 'Privacy Policy | Gomez & Touger, P.A.'
   office_map:
     tampa: 'Tampa Law Office | Gomez & Touger, P.A. | Tampa, Florida'
-    bartow: 'Bartow Law Office | Gomez & Touger, P.A. | Bartow, Florida'
+    lakeland: 'Lakeland Law Office | Gomez & Touger, P.A. | Lakeland, Florida'
   personal_injury:
     home: 'Personal Injury'
     firm_overview: 'Tampa Personal Injury Attorneys'
@@ -65,7 +65,7 @@ tagline:
 footer:
   office_locations: 'Office Locations'
   tampa_office: 'Tampa Law Office Map'
-  bartow_office: 'Bartow Law Office Map'
+  lakeland_office: 'Lakeland Law Office Map'
   info: >
     Gomez & Touger, P.A. serves clients throughout the Central Florida area such as Tampa, Lakeland, Winter Haven,
     Haines City, Bartow, Brandon, Bradenton, Sarasota, Clearwater, St. Petersburg, Plant City, Hillsborough County,
