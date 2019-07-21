@@ -20,7 +20,7 @@ navigation:
   attorneys: 'ABOGADOS'
   contact_us: 'CONTÁCTENOS'
   criminal:
-    overview: 'RESUMEN DE LEY PENAL'
+    overview: 'VISTA A LEY CRIMINAL'
     identity_theft: 'Robo de Identidad'
     embezzlement: 'Desfalcos'
     insurance_fraud: 'Fraude de Seguro'
