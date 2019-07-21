@@ -19,6 +19,23 @@ navigation:
   firm_overview: 'NUESTRA FIRMA'
   attorneys: 'ABOGADOS'
   contact_us: 'CONTÁCTENOS'
+  criminal:
+    overview: 'RESUMEN DE LEY PENAL'
+    identity_theft: 'Robo de Identidad'
+    embezzlement: 'Desfalcos'
+    insurance_fraud: 'Fraude de Seguro'
+    rico: 'Crimen Organizado (RICO)'
+    drug_possession: 'Posesión de Drogras'
+    drug_trafficking: 'Tráfico de Drogas'
+    homicide_manslaughter: 'Homicidio'
+    domestic_violence: 'Violencia Doméstica'
+    sexual_battery: 'Ofensas Sexuales'
+    internet_sex_crimes: 'Crímenes Sexuales por Internet'
+    dui_dwi: 'Manejando Bajo La Influencia (DUI/DWI)'
+    license_suspension: 'Suspensión de Licencia'
+    probation_violation: 'Probation Violation'
+    expungement: 'Sealing & Expungement'
+    bond_hearings: 'Bond Hearings'
 
 tagline:
   line_1: 'Contáctenos Hoy Para Recibir Su Consulta Gratis'

@@ -29,7 +29,7 @@ In addition, we represent people in probation violation cases, sealing and expun
 
 ## Tampa Drug Crime Defense Attorneys
 
-For a free consultation, please call {{ site.data.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
+For a free consultation, please call {{ site.data.business.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
 
 Phones are answered 24 hours a day.
 

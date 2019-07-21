@@ -29,7 +29,7 @@ Adicionalmente, nosotros representamos a personas en casos de violación de prob
 
 ## Abogados de Defensa Criminal por Drogas Tampa
 
-Para una consulta gratuita, favor marque {{ site.data.locations.tampa.phone }} o [contáctenos]({% tl contact_us %}) en línea.
+Para una consulta gratuita, favor marque {{ site.data.business.locations.tampa.phone }} o [contáctenos]({% tl contact_us %}) en línea.
 
 Nuestros teléfonos son contestados 24 horas al día.
 
