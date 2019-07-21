@@ -13,7 +13,7 @@ permalink_es: /casos-penales/license-suspension/
 If you are charged with DUI/DWI or with refusing a Breathalyzer test, your driver's license will be automatically suspended. Without a lawyer's help, you may have difficulty getting your driving privileges restored.
 
 At {{ site.data.business.name }}, we represent people who have had their driver's licenses suspended because of a criminal offense such as
-[DUI/DWI]({% tl criminal.dui_dwi %}). We understand that losing your license may cause you to lose your job and be unable to care for your family. We will represent you at the license suspension hearing and argue for your driving privileges. To schedule a free consultation with our Tampa driver's license suspension attorneys, please call {{ site.data.locations.tampa.phone }}.
+[DUI/DWI]({% tl criminal.dui_dwi %}). We understand that losing your license may cause you to lose your job and be unable to care for your family. We will represent you at the license suspension hearing and argue for your driving privileges. To schedule a free consultation with our Tampa driver's license suspension attorneys, please call {{ site.data.business.locations.tampa.phone }}.
 
 ## Restoring Your Florida Driver's License
 
@@ -33,4 +33,4 @@ In addition to the suspension or revocation, you will have to pay administrative
 
 ## Contact Our Tampa Driving On A Suspended License Attorneys
 
-For a free consultation, please call {{ site.data.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
+For a free consultation, please call {{ site.data.business.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.

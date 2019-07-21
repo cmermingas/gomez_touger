@@ -12,7 +12,7 @@ permalink_es: /casos-penales/embezzlement/
 
 Being charged with embezzlement can be frightening, especially if you are charged with stealing from your employer. We understand that embezzlement charges may be based on a misinterpretation of the facts. It is unlikely that you will be able to convince law enforcement of this without help from a lawyer, however.
 
-{{ site.data.business.name }}, we have the experience to help you fight embezzlement and theft charges. As former Florida assistant state attorneys, we have prosecuted these types of cases for the state. Because we know what it takes to convict an individual of embezzlement, we also know how to defend against the charges. To schedule a free consultation with our Tampa embezzlement attorneys, please call {{ site.data.locations.tampa.phone }}.
+{{ site.data.business.name }}, we have the experience to help you fight embezzlement and theft charges. As former Florida assistant state attorneys, we have prosecuted these types of cases for the state. Because we know what it takes to convict an individual of embezzlement, we also know how to defend against the charges. To schedule a free consultation with our Tampa embezzlement attorneys, please call {{ site.data.business.locations.tampa.phone }}.
 
 ## Was There Intent To Defraud?
 
@@ -32,4 +32,4 @@ In general, charges and penalties for embezzlement and theft are based on the am
 
 ## Contact Our Tampa Employee Theft Attorneys
 
-For a free consultation, please call {{ site.data.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
+For a free consultation, please call {{ site.data.business.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.

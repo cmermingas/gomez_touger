@@ -12,7 +12,7 @@ permalink_es: /casos-penales/probation-violations/
 
 Probation is nearly always preferable to a jail or prison sentence. However, it does have numerous conditions and requirements you must meet. It is not difficult to violate probation unintentionally. If you do, you should contact a lawyer as soon as possible.
 
-You are entitled to a defense and representation in probation violation hearings. The attorneys at {{ site.data.business.name }}, can represent you at Florida probation violation hearings. We are former prosecutors who know how to negotiate with district attorneys and judges. To schedule a free consultation with our Tampa probation violations attorneys, please call {{ site.data.locations.tampa.phone }}.
+You are entitled to a defense and representation in probation violation hearings. The attorneys at {{ site.data.business.name }}, can represent you at Florida probation violation hearings. We are former prosecutors who know how to negotiate with district attorneys and judges. To schedule a free consultation with our Tampa probation violations attorneys, please call {{ site.data.business.locations.tampa.phone }}.
 
 ## Violations Of Probation Or House Arrest
 
@@ -36,4 +36,4 @@ You will also be in violation of your probation if you commit a new crime.
 
 ## Contact Our Tampa Attorneys For Failure To Report For Probation
 
-For a free consultation, please call {{ site.data.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
+For a free consultation, please call {{ site.data.business.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.

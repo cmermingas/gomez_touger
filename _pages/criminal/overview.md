@@ -10,7 +10,7 @@ permalink_es: /casos-penales/overview/
 
 # Tampa Criminal Defense Lawyers
 
-{{ site.data.business.name }}, we represent adults and juveniles who are charged with crimes in Florida. Our lawyers have more than 30 years of combined legal experience. We provide aggressive, strategic criminal defense against state and federal charges. To schedule a free consultation with our Tampa criminal defense attorneys, please call {{ site.data.locations.tampa.phone }}.
+{{ site.data.business.name }}, we represent adults and juveniles who are charged with crimes in Florida. Our lawyers have more than 30 years of combined legal experience. We provide aggressive, strategic criminal defense against state and federal charges. To schedule a free consultation with our Tampa criminal defense attorneys, please call {{ site.data.business.locations.tampa.phone }}.
 
 ## White Collar Crimes
 
@@ -82,4 +82,4 @@ As a full-service criminal defense law firm, we also represent people in matters
 
 ## Contact Our Tampa Drug Charges Attorneys
 
-For a free consultation, please call {{ site.data.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
+For a free consultation, please call {{ site.data.business.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.

@@ -22,5 +22,5 @@ We also understand that not every client is comfortable going to trial. Our expe
 
 ## Contact Our Personal Injury Attorneys
 
-We have two offices conveniently located in Tampa and Lakeland. To schedule a free consultation, please call {{ site.data.locations.tampa.phone }}. Phones are answered 24 hours a day.
+We have two offices conveniently located in Tampa and Lakeland. To schedule a free consultation, please call {{ site.data.business.locations.tampa.phone }}. Phones are answered 24 hours a day.
 Los abogados hablan español.

@@ -14,7 +14,7 @@ One DUI/DWI conviction will affect your life for years. If you are convicted aga
 
 Whether it is your first DUI offense or a subsequent offense, you can benefit from experienced defense counsel.
 At {{ site.data.business.name }}, we represent clients during the criminal process and the [license suspension]({% tl criminal.license_suspension %})
-hearing with the Department of Highway Safety and Motor Vehicles (DHSMV). To schedule a free consultation with our Tampa repeat drunk driving offenses attorneys, call {{ site.data.locations.tampa.phone }}.
+hearing with the Department of Highway Safety and Motor Vehicles (DHSMV). To schedule a free consultation with our Tampa repeat drunk driving offenses attorneys, call {{ site.data.business.locations.tampa.phone }}.
 
 ## Defense Against Multiple Drunk Driving Charges
 
@@ -48,4 +48,4 @@ A **fourth or subsequent DUI** will be charged as a felony. You do not want a fe
 
 Contact Our Tampa Repeat DWI/DUI Charges Attorneys
 
-For a free consultation, please call {{ site.data.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
+For a free consultation, please call {{ site.data.business.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.

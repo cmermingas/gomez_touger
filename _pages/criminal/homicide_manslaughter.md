@@ -13,7 +13,7 @@ permalink_es: /casos-penales/homicide-manslaughter/
 If you are facing homicide charges, you know the rest of your life is at stake. Your lawyer must be experienced with these cases. We have worked homicide and manslaughter cases as prosecutors and defense lawyers.
 Additionally, the attorneys at {{ site.data.business.name }}, are graduates of Florida's Life Over Death certification program, thereby qualifying them in all phases of death penalty case representation. Because of our experience, we receive many of these cases as referrals.
 
-{{ site.data.business.name }} provides knowledgeable, strategic defense representation to people charged with homicide or manslaughter in Florida. We know how the state prosecutes these offenses, so we can anticipate the case strategy and work to counteract it. We will take every opportunity to expose weaknesses in the prosecution's case. To schedule a free consultation, please call our Tampa homicide attorneys at {{ site.data.locations.tampa.phone }}.
+{{ site.data.business.name }} provides knowledgeable, strategic defense representation to people charged with homicide or manslaughter in Florida. We know how the state prosecutes these offenses, so we can anticipate the case strategy and work to counteract it. We will take every opportunity to expose weaknesses in the prosecution's case. To schedule a free consultation, please call our Tampa homicide attorneys at {{ site.data.business.locations.tampa.phone }}.
 
 ## We Challenge The Prosecution's Case
 
@@ -33,4 +33,4 @@ If the case against you is strong, we will discuss whether accepting a plea or g
 
 ## Contact Our Tampa Manslaughter Attorneys
 
-For a free consultation, please call {{ site.data.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
+For a free consultation, please call {{ site.data.business.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.

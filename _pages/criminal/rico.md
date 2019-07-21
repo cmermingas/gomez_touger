@@ -12,7 +12,7 @@ permalink_es: /casos-penales/rico/
 
 Racketeer Influenced and Corrupt Organizations Act (RICO) violations are extremely serious matters. These cases are often investigated by federal agencies and prosecuted by federal attorneys. If you think you may be under investigation for state or federal RICO crimes, contact a lawyer immediately.
 
-{{ site.data.business.name }}, provides experienced defense against RICO charges. Our attorneys are former prosecutors who know the severity of RICO conviction penalties. We conduct a thorough investigation of the charges and work hard to exploit weaknesses in the prosecution's case. For a free consultation with our Tampa RICO defense attorneys, please call {{ site.data.locations.tampa.phone }}.
+{{ site.data.business.name }}, provides experienced defense against RICO charges. Our attorneys are former prosecutors who know the severity of RICO conviction penalties. We conduct a thorough investigation of the charges and work hard to exploit weaknesses in the prosecution's case. For a free consultation with our Tampa RICO defense attorneys, please call {{ site.data.business.locations.tampa.phone }}.
 
 ## The Penalties Are Severe
 
@@ -42,4 +42,4 @@ With more than 30 years of combined experience, we have the knowledge and skill 
 
 ## Contact Our Tampa Racketeer Influenced And Corrupt Organizations Act Attorneys
 
-For a free consultation, please call {{ site.data.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
+For a free consultation, please call {{ site.data.business.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.

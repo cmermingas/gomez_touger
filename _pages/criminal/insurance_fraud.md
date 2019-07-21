@@ -12,7 +12,7 @@ permalink_es: /casos-penales/insurance-fraud/
 
 If you are arrested on suspicion of insurance fraud, you could be charged with a misdemeanor or felony, depending on your role in the offense and the value of the money/services obtained. Regardless of the level of the charge, you do not want a fraud conviction on your record. In addition to penalties such as fines and a prison sentence, you may be prohibited from many future employment opportunities.
 
-At {{ site.data.business.name }}, we represent individuals, policyholders, doctors, pharmacists, dentists, clinic employees and others charged with insurance fraud. If you are a professional charged with insurance fraud, you could face criminal penalties and the loss of your professional license. We will work hard to protect your rights. To schedule a free consultation with our Tampa insurance fraud attorneys, please call {{ site.data.locations.tampa.phone }}.
+At {{ site.data.business.name }}, we represent individuals, policyholders, doctors, pharmacists, dentists, clinic employees and others charged with insurance fraud. If you are a professional charged with insurance fraud, you could face criminal penalties and the loss of your professional license. We will work hard to protect your rights. To schedule a free consultation with our Tampa insurance fraud attorneys, please call {{ site.data.business.locations.tampa.phone }}.
 
 ## Auto Insurance Fraud, Health Insurance Fraud And Additional Charges
 
@@ -36,4 +36,4 @@ Because we are former state prosecutors, we understand how these types of cases 
 
 ## Contact Our Tampa Medical Insurance Fraud Attorneys
 
-For a free consultation, please call {{ site.data.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
+For a free consultation, please call {{ site.data.business.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.

@@ -45,7 +45,7 @@ of dealing with an insurer and maximize your recovery
    their injury claim.
 
 4. 24 Hour Service. Our firm prides itself on our personal assistance to our clients, regardless of day or night. Our
-   number {{ site.data.locations.tampa.phone }} is answered by a live person 24 hours a day, 7 days a week. We do not
+   number {{ site.data.business.locations.tampa.phone }} is answered by a live person 24 hours a day, 7 days a week. We do not
    use answering machines or those annoying call center menus.
 
 ## We Guarantee Our Results And We Require No Upfront Fee From Our Clients 

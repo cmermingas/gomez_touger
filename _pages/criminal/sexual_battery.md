@@ -12,7 +12,7 @@ permalink_es: /casos-penales/sexual-battery/
 
 Few things can damage your reputation as quickly as sex crime charges. Even if you are cleared of the charges, the accusation alone can affect your life for years. You need a defense lawyer on your side immediately if you have been arrested or charged with a sex crime. Adequate representation by experienced attorneys can save you from lengthy incarceration and a lifetime designation as a sexual offender or predator.
 
-{{ site.data.business.name }}, provides tough, experienced defense representation to individuals charged with sex offenses in Florida. As prosecutors, we tried sex crime cases for the state. We understand these accusations can be devastating, as society often presumes the accused automatically guilty. However, we know that often these accusations are motivated by jealousy, revenge or a familial dispute. Attorney Joseph Touger was part of the Florida prosecution sex crimes unit, prosecuting a wide array of alleged crimes against adults and children. He knows how to properly investigate a case to look for these motivations or conflicts in the evidence. To schedule a free consultation with our Tampa sexual battery attorneys, please call {{ site.data.locations.tampa.phone }}.
+{{ site.data.business.name }}, provides tough, experienced defense representation to individuals charged with sex offenses in Florida. As prosecutors, we tried sex crime cases for the state. We understand these accusations can be devastating, as society often presumes the accused automatically guilty. However, we know that often these accusations are motivated by jealousy, revenge or a familial dispute. Attorney Joseph Touger was part of the Florida prosecution sex crimes unit, prosecuting a wide array of alleged crimes against adults and children. He knows how to properly investigate a case to look for these motivations or conflicts in the evidence. To schedule a free consultation with our Tampa sexual battery attorneys, please call {{ site.data.business.locations.tampa.phone }}.
 
 ## You Cannot Afford A Conviction
 
@@ -40,4 +40,4 @@ When appropriate to the case, we work with forensic and DNA experts. In cases wi
 
 ## Contact Our Tampa Date Rape Attorneys
 
-For a free consultation, please call {{ site.data.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
+For a free consultation, please call {{ site.data.business.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.

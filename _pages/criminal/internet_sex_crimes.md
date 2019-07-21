@@ -13,7 +13,7 @@ permalink_es: /casos-penales/internet-sex-crimes/
 Criminal transmission of child pornography images or content over the Internet may be considered wire fraud, which is a federal crime. You can face state and federal charges in these cases. Federal penalties are especially severe and may include a prison sentence between five and 50 years, depending on the details of the offense.
 
 Our lawyers began their careers as prosecutors for the state and gained experience with
-[sex offense]({% tl criminal.sexual_battery %}) cases. As a prosecutor, attorney Joseph Touger worked closely with members of local and federal law enforcement task forces investigating Internet sex crimes. Today, this highly specialized technical knowledge is extremely valuable as we build defense strategies for clients. To schedule a free consultation with our Tampa Internet sex crimes attorneys, please call {{ site.data.business.name }}, at {{ site.data.locations.tampa.phone }}.
+[sex offense]({% tl criminal.sexual_battery %}) cases. As a prosecutor, attorney Joseph Touger worked closely with members of local and federal law enforcement task forces investigating Internet sex crimes. Today, this highly specialized technical knowledge is extremely valuable as we build defense strategies for clients. To schedule a free consultation with our Tampa Internet sex crimes attorneys, please call {{ site.data.business.name }}, at {{ site.data.business.locations.tampa.phone }}.
 
 ## We Exploit Weaknesses In The Prosecution's Case
 
@@ -39,4 +39,4 @@ As with any sex offense, an Internet sex crime conviction can ruin your reputati
 
 ## Contact Our Tampa Child Pornography Attorneys
 
-For a free consultation, please call {{ site.data.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
+For a free consultation, please call {{ site.data.business.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.

@@ -14,7 +14,7 @@ If a family member has been arrested and did not get bond or received a very hig
 
 Waiting for a public defender to represent you at a bond hearing may take days. You may want to work with a lawyer at
 {{ site.data.business.name }} We represent individuals at bond hearings in Florida.
-To schedule a free consultation with our Tampa bond hearings attorneys, please call {{ site.data.locations.tampa.phone }}.
+To schedule a free consultation with our Tampa bond hearings attorneys, please call {{ site.data.business.locations.tampa.phone }}.
 
 ## Representation At Bond Hearings
 
@@ -26,4 +26,4 @@ The state will be represented by the prosecution at every hearing, so it is impo
 
 ## Contact Our Tampa Bond Attorneys
 
-For a free consultation, please call {{ site.data.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
+For a free consultation, please call {{ site.data.business.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.

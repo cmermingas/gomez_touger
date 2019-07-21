@@ -12,7 +12,7 @@ permalink_es: /casos-penales/drug-possession/
 
 The severity of drug crime penalties has been debated for years. Many people, including some lawyers and judges, believe that these penalties are unnecessarily harsh and ultimately do more harm than good. While a few changes have been made, the majority of our country's drug crime penalties are still very severe.
 
-The attorneys at {{ site.data.business.name }}, aggressively fight state and federal drug crime charges in Florida. As former state prosecutors, we understand how serious drug cases are and how vigorously the government prosecutes offenders. We will protect your rights at every step, starting with the legality of the search of your person, vehicle and home. To schedule a free consultation, please call our Tampa drug possession attorneys at {{ site.data.locations.tampa.phone }}.
+The attorneys at {{ site.data.business.name }}, aggressively fight state and federal drug crime charges in Florida. As former state prosecutors, we understand how serious drug cases are and how vigorously the government prosecutes offenders. We will protect your rights at every step, starting with the legality of the search of your person, vehicle and home. To schedule a free consultation, please call our Tampa drug possession attorneys at {{ site.data.business.locations.tampa.phone }}.
 
 ## We Protect Your Constitutional Rights
 
@@ -24,4 +24,4 @@ If a dismissal is not possible, we will work hard to reduce the charges and/or m
 
 ## Contact Our Tampa Drug Charges Attorneys
 
-For a free consultation, please call {{ site.data.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
+For a free consultation, please call {{ site.data.business.locations.tampa.phone }} or visit our [contact us]({% tl contact_us %}) page.
