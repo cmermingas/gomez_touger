@@ -26,6 +26,6 @@ Si usted tambin es acusado de falsificación, fraude de correo o giro, usted pue
 
 El robo de Identidad es considerado una felonia en el Estado de la Florida. Estas acusaciones pueden incluir multas, sentencias de prisión, y pérdida de cualquier propiedad personal utilizada para cometer dicha ofensa. Adicionalmente, usted posiblemente tenga que hacer la restitución a las víctimas.
 
-Contacte A Nuestros Abogados Por Fraude De Tarjeta De Crédito, Tampa.
+## Contacte A Nuestros Abogados Por Fraude De Tarjeta De Crédito, Tampa.
 
 Para una consulta gratuita, favor marque al {{ site.data.business.locations.tampa.phone }}.
