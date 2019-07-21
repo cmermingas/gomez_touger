@@ -33,9 +33,9 @@ navigation:
     internet_sex_crimes: 'Crímenes Sexuales por Internet'
     dui_dwi: 'Manejando Bajo La Influencia (DUI/DWI)'
     license_suspension: 'Suspensión de Licencia'
-    probation_violation: 'Probation Violation'
-    expungement: 'Sealing & Expungement'
-    bond_hearings: 'Bond Hearings'
+    probation_violation: 'Violaciones de Libertad Condicional'
+    expungement: 'Eliminación de Antecedentes'
+    bond_hearings: 'Audiencias de Fianza'
 
 tagline:
   line_1: 'Contáctenos Hoy Para Recibir Su Consulta Gratis'
