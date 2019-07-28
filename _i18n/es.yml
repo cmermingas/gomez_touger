@@ -42,7 +42,7 @@ navigation:
   criminal:
     overview: 'VISTA A LEY CRIMINAL'
     identity_theft: 'Robo de Identidad'
-    embezzlement: 'Desfalcos'
+    embezzlement: 'Desfalcos y Robos'
     insurance_fraud: 'Fraude de Seguro'
     rico: 'Crimen Organizado (RICO)'
     drug_possession: 'Posesión de Drogas'
